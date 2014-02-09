@@ -34,7 +34,7 @@ Screenshot
 
 Issues
 ---------------
-Lots of bugs are there, even I know. Feel free to suggest changes! At present, I plan to right a command line gem. 
+Lots of bugs are there, even I know. Feel free to suggest changes! At present, I plan to write a command line gem. 
 
 License
 -----------------
