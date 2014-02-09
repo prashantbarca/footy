@@ -20,6 +20,12 @@ Packages to be installed from apt-get
 - libgtk2-ruby 
 - libnotify-dev
 
+Run it
+---------------
+- Clone this application and cd. 
+- Simply
+        $ ruby noko.rb
+
 Issues
 ---------------
 Lots of bugs are there, even I know. Feel free to suggest changes! At present, I plan to right a command line gem. 
