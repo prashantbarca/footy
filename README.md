@@ -27,6 +27,11 @@ Run it
         
             $ ruby noko.rb
 
+Screenshot
+-----------------
+![Screenshot on KDE](./screen.png)
+
+
 Issues
 ---------------
 Lots of bugs are there, even I know. Feel free to suggest changes! At present, I plan to right a command line gem. 
