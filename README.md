@@ -24,7 +24,8 @@ Run it
 ---------------
 - Clone this application and cd. 
 - Simply
-        $ ruby noko.rb
+        
+            $ ruby noko.rb
 
 Issues
 ---------------
